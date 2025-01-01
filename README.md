@@ -7,6 +7,7 @@
 ## customizations
 
 - [ ] replace foot with alacritty
+- [ ] replace default edito with nvim
 - [ ] check ssh keys 
 
 ## To Install Sway
