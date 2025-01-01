@@ -4,6 +4,11 @@
 
 [![Maintenance](https://img.shields.io/maintenance/yes/2025.svg)]()
 
+## customizations
+
+- [ ] replace foot with alacritty
+- [ ] check ssh keys 
+
 ## To Install Sway
 
 ### With the EOS Installer
